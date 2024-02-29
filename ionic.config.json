@@ -1,0 +1,7 @@
+{
+  "name": "tematic-anime-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
