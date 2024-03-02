@@ -1,0 +1,13 @@
+.menu-link {
+    display: block;
+    margin: 2rem 0;
+    color: hsl(0, 0%, 0%); 
+}
+
+.menu-link ion-icon {
+    margin-right: 5px;
+}
+
+.menu-link:hover {
+    background-color: hsl(218, 100%, 61%); /* Change background color on hover */
+}
