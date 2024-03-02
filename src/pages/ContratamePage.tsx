@@ -35,13 +35,13 @@ const ContratamePage: React.FC = () => {
           <p className="text-center text-gray-600 mt-1">{ramyContacto.ocupacion}</p>
           <div className="flex justify-center mt-5">
             <a href={ramyContacto.github} className="text-blue-500 hover:text-blue-700 mx-3">
-              <ion-icon icon={logoGithub} style={{ fontSize: '2.5rem' }}></ion-icon>
+              Github
             </a>
             <a href={ramyContacto.linkedin} className="text-blue-500 hover:text-blue-700 mx-3">
-              <ion-icon icon={logoLinkedin} style={{ fontSize: '2.5rem' }}></ion-icon>
+              linkedin
             </a>
             <a href={ramyContacto.portfolio} className="text-blue-500 hover:text-blue-700 mx-3">
-              <ion-icon icon={globe} style={{ fontSize: '2.5rem' }}></ion-icon>
+              Web
             </a>
           </div>
         </div>
